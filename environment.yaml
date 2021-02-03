@@ -8,4 +8,5 @@ channels:
 dependencies:
   - r-base=4.0.3
   - jupyterlab=3.0.7
-  - r-irkernel
+  - r-irkernel=1.1.1
+  - r-coda=0.19_4
