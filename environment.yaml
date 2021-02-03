@@ -1,0 +1,11 @@
+name: workshop-mcmc
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - r
+  - defaults
+dependencies:
+  - r-base=4.0.3
+  - jupyterlab=3.0.7
+  - r-irkernel
